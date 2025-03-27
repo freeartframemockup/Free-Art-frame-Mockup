@@ -1,5 +1,3 @@
-# Free-Art-frame-Mockup
-
 # Free Art Frame Mockup
 
 Welcome to the Free Art Frame Mockup repository! This repository is designed to offer valuable insights and resources related to high-quality art frame mockups for designers, artists, and marketers. Whether you're looking to enhance your design portfolio, create professional presentations, or simply experiment with art frame visuals, our collection offers the perfect solution. 
@@ -67,7 +65,7 @@ If you find our resources valuable, kindly link back to our website to help othe
 Even though GitHub is primarily a development platform, it is a high-domain-authority site that offers valuable SEO juice. By creating informative, resource-rich repositories, you can:
 
 - Gain visibility from designers and developers interested in art and design.
-- Increase referral traffic to **[Mockupdaddy.com](https://www.mockupdaddy.com/)**
+- Increase referral traffic to **[Mockupdaddy](https://www.mockupdaddy.com/)**
 - Establish authority by sharing genuine value in the creative community.
 
 ## Tips for Creating Effective Backlinks on GitHub
